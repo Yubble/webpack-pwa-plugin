@@ -13,13 +13,13 @@ if ('serviceWorker' in navigator) { // 兼容性判断
   });
 }
 
-const test1 = () => {
-  console.log('----- test1 fn ------')
+const test2 = () => {
+  console.log('----- test222 fn ------')
   
   if (m1.css) {
     console.log(m1.css)
   }
 }
 
-test1()
+test2()
 
