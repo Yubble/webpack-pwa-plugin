@@ -14,7 +14,7 @@ if ('serviceWorker' in navigator) { // 兼容性判断
 }
 
 const test2 = () => {
-  console.log('----- test222 fn ------')
+  console.log('----- test3 fn ------')
   
   if (m1.css) {
     console.log(m1.css)
